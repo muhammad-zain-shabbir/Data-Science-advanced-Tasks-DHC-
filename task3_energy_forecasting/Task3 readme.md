@@ -115,7 +115,7 @@ To build predictive models that can estimate future household energy consumption
 ## 📁 Files in This Folder
 
 - `energy_forecasting.ipynb` — Main Jupyter notebook
-- `Electricity_consumption.csv` — Dataset file
+- `Electricity_consumption.csv` — Dataset file (this was a large file so it was compressed in a zipfile for smoother and easy access.)
 - `README.md` — This summary file
 
 ---

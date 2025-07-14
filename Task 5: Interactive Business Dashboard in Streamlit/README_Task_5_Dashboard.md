@@ -56,7 +56,8 @@ Develop an interactive dashboard for analyzing sales, profit, and segment-wise p
 | `dashboard_app.py` | Main Streamlit app code |
 | `global_superstore.csv` | Dataset (renamed from Sample - Superstore.csv) |
 | `README.md` | Project documentation |
-| `Task_5_Streamlit_Dashboard_Reference.ipnyb |
+| `Task_5_Streamlit_Dashboard_Reference.ipnyb` | Explanation in Jupyter Notebook |
+|  |
 
 ---
 

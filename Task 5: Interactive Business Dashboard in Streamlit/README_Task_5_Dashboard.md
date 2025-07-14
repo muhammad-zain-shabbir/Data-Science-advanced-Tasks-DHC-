@@ -11,6 +11,7 @@ Develop an interactive dashboard for analyzing sales, profit, and segment-wise p
 - **Source:** [Kaggle - Global Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 - **File used in this task:** `global_superstore.csv` (renamed from the original)
 
+
 ---
 
 ## 🛠️ Tools and Libraries
@@ -55,6 +56,7 @@ Develop an interactive dashboard for analyzing sales, profit, and segment-wise p
 | `dashboard_app.py` | Main Streamlit app code |
 | `global_superstore.csv` | Dataset (renamed from Sample - Superstore.csv) |
 | `README.md` | Project documentation |
+| `Task_5_Streamlit_Dashboard_Reference.ipnyb |
 
 ---
 

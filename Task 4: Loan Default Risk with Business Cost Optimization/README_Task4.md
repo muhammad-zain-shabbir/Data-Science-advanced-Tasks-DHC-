@@ -16,7 +16,7 @@ This project focuses on predicting loan default risk and optimizing the decision
 ## 📂 Dataset
 
 - **Name:** Home Credit Default Risk – Application dataset  
-- **File Used:** `application_train.csv`
+- **File Used:** `application_train.csv` 
 - **Source:** [Kaggle Dataset Link](https://www.kaggle.com/competitions/home-credit-default-risk/data?select=application_train.csv)
 
 ---
@@ -76,7 +76,7 @@ This project focuses on predicting loan default risk and optimizing the decision
 
 ```
 task4_loan_default_risk/
-├── application_train.csv
+├── application_train.csv (this was a large file so it has been compressed in a folder and it's name is: compressed_data.csv.gz) 
 ├── loan_default_risk_optimization.ipynb
 └── README.md
 ```

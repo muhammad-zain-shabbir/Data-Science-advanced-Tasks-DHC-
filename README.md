@@ -2,40 +2,6 @@
 ***This is my Github Repo for the advanced tasks in my internship for Developers Hub Corporation and much more.***
 
 **Advanced Task Set**
-*Task 1: Term Deposit Subscription Prediction (Bank Marketing)*
-**Objective:**
- Predict whether a bank customer will subscribe to a term deposit as a result of a marketing campaign.
-**Dataset:**
- Bank Marketing Dataset (UCI Machine Learning Repository)
-**Instructions:**
-Load and explore the dataset
-
-
-Encode all categorical features properly
-
-
-Train classification models (e.g., Logistic Regression, Random Forest)
-
-
-Evaluate the models using Confusion Matrix, F1-Score, and ROC Curve
-
-
-Use SHAP or LIME to explain at least 5 model predictions
-
-
-Skills Gained:
-Classification modeling
-
-
-Feature encoding
-
-
-Model interpretability (Explainable AI - XAI)
-
-
-Customer behavior analysis
-
-
 
 **Task 2: Customer Segmentation Using Unsupervised Learning**
 **Objective:**
